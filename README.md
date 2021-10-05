@@ -9,3 +9,7 @@
  # and by night ;-)
  
  ![By night](https://github.com/Eifel-Joe/Tronxy-X5SA-Pro/blob/master/Images/Night-Tronxy.jpg?raw=true)
+
+ # Electronics (old version for Marlin and Octoprint)
+
+ ![Electronics](https://github.com/Eifel-Joe/Tronxy-X5SA-Pro/blob/master/Images/electronics.jpg?raw=true)
