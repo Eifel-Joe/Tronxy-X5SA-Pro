@@ -1,5 +1,11 @@
 # Tronxy X5SA Pro
  
+ Since the Tronxy no longer exists in this form because it was converted to a Voron 1.8, this repo is no longer processed. I will therefore not invest any more time to complete it.
+
+ There will soon be a new repo for the V1.8.
+ 
+ __________________________________________________________________________________________ 
+ 
  CAD, STL's & Klipper-Konfig of my legendary Tronxy X5SA Pro with fully heated enclosure
  
  # My Tronxy at daytime
